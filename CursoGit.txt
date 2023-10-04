@@ -1,0 +1,3 @@
+nombre = "Eugenio"
+pust "Hello #{nombre}"
+pust "Hola"
